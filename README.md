@@ -19,7 +19,7 @@ This project has been developed using **Next.js** and the full codebase is avail
 
 🛠️ It is currently undergoing **testing and optimization** to ensure high performance and responsiveness.
 
-📅 **Scheduled Deployment:** 15th June 2025 (or before)     
+📅 **Scheduled Deployment:** 29th June 2025 (or before)     
 ✅ **Codebase Status:** Updated and available
 
 Stay tuned for the live version!
