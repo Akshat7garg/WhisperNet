@@ -75,6 +75,10 @@ npm run dev
 
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+---
+
+## *NOTE: backend and other services are in a private repository*
+
 ## Contributing
 
 Contributions to this project are welcome. If you'd like to contribute, please follow these steps:
